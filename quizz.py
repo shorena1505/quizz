@@ -8,8 +8,7 @@ while i <= 5:
     answer = num_1 * num_2
 
     user_input = int(input(f"Problem {i}: What is {num_1} x {num_2}? "))
-    if not user_input.isdigit():
-        print("Please enter only a number!")
+
     if user_input == answer:
         print("Correct!")
     else:
