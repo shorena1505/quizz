@@ -3,13 +3,9 @@
 __pycache__/
 
 # IDE კონფიგურაცია
-.vscode/
 .idea/
+.vscode/
 
 # დროებითი ფაილები
 *.log
 *.tmp
-
-# Node.js (თუ JS პროექტია)
-node_modules/
-dist/
