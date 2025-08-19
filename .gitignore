@@ -1,0 +1,15 @@
+# Python-ის კომპილირებული ფაილები
+*.pyc
+__pycache__/
+
+# IDE კონფიგურაცია
+.vscode/
+.idea/
+
+# დროებითი ფაილები
+*.log
+*.tmp
+
+# Node.js (თუ JS პროექტია)
+node_modules/
+dist/
